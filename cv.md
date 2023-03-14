@@ -3,9 +3,13 @@
 
 ### Contacts
 Location: Minsk/Belarus
+
 E-mail : 3597052@gmail.com
+
 Telegram: @lxotse
+
 Discord: @ozone (boxiby)#2781
+
 
 ### About me
 As a Front-End Developer I created different 
