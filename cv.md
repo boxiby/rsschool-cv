@@ -2,29 +2,16 @@
 ### I'm junior Front-end developer
 
 ### Contacts
-Location: Minsk/Belarus
-
-E-mail : 3597052@gmail.com
-
-Telegram: @lxotse
-
-Discord: @ozone (boxiby)#2781
+* **Location:** Minsk/Belarus
+* **E-mail:** 3597052@gmail.com
+* **Telegram:** @lxotse
+* **Discord:** @ozone (boxiby)#2781
 
 
 ### About me
-As a Front-End Developer I created different 
-websites using CMS and HTML, CSS and JavaScript 
-to built the sites.
-I recently created and optimized the ARC France 
-distributor's online store with 3000 products. Today, 
-the site brings new visitors 15-20 thousand per month 
-and more than 2000 keywords take the top 5 of 
-Google and Yandex.
-Now I am studying intensively and plan to expand my 
-knowledge in full stack.
-In my free time you can find me in the swimming pool 
-or outdoor walking. On weekends I like to arrange car 
-trips to new places with my family and friends.
+As a Front-End Developer, I have created various websites using CMS, HTML, CSS, and JavaScript. Recently, I created and optimized the online store of ARC France distributors, which has 3000 products. Currently, the site attracts 15-20 thousand new visitors per month, and more than 2000 keywords rank in the top 5 on Google and Yandex.
+
+Currently, I am intensively studying to expand my knowledge in Front-end development. In my free time, you can find me in the swimming pool or out for a walk. On weekends, I enjoy organizing car trips to new places with my family and friends.
 
 ### Skills
 * Adaptive layout HTML5/CSS/SCSS
@@ -32,6 +19,9 @@ trips to new places with my family and friends.
 * Figma
 * Git 
 * Gulp
+
+### Experience
+I am working on an e-commerce project at luval.by. My responsibilities include creating a website on CMS Bitrix, optimizing it for search engines such as Google and Yandex, and developing PPС and marketing activities.
 
 ### Education
 * Belarusian state university of information science and radio electronics - **IT - Programmer**
@@ -50,5 +40,3 @@ chngElement();
 ### Language
 * English B2
 * Russian (Native)
-
-<https://boxiby.github.io/rsschool-cv/>
